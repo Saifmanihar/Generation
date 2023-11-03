@@ -1,2 +1,0 @@
-a=("saif")
-print(a)
