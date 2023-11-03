@@ -1,0 +1,2 @@
+a=("saif")
+print(a)
